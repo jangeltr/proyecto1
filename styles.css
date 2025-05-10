@@ -5,6 +5,12 @@
     --color4: #3a3d3a;
     --color5: #fbfafa;
 }
+.montserrat-font {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
 body {
     font-family: Arial, sans-serif;
     background-color: black;
